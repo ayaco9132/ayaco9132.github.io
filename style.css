@@ -1,4 +1,18 @@
 .global_nav{
-    background-color:#5fa3d6;
+    border-bottom:double 3px #5fa3d6;
   }
-  
+.concept {
+    border-bottom: double 3px #5fa3d6;
+}
+.works{
+    border-bottom: double 3px #5fa3d6;
+}
+.company{
+  border-bottom: double 3px #5fa3d6;
+}
+.news{
+  border-bottom: double 3px #5fa3d6;
+}
+.contact{
+  border-bottom: double 3px #5fa3d6;
+}
