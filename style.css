@@ -20,22 +20,40 @@
 .works{
   font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.4s linear;
 }
 #company{
   font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.4s linear;
 }
 .news{
   font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.4s linear;
 }
 .contact{
   font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.4s linear;
 }
 .footer_nav cf{
   font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
+  margin-right: 33px;
+  padding-top: 33px;
+  padding-bottom: 17px;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.4s linear;
 }
 .access{
   font-family: 'Poppins';
