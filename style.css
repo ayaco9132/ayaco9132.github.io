@@ -1,58 +1,58 @@
 .main_menu a{
-  font-family: 'Poppins';
+  font-family: 'YaKuHanJP', 'Montserrat', 'Hiragino Kaku Gothic ProN', Meiryo, 'Lucida Grande', sans-serif;
   margin-right: 33px;
   padding-top: 33px;
   padding-bottom: 17px;
   text-decoration: none;
-  color: #33e;
+  color: #797979;
   transition: color 0.4s linear;
 }
 .global_nav{
   border-bottom:double 3px #5fa3d6;
   }
 .concept {
-  font-family: 'Poppins';
+  font-family: 'YaKuHanJP', 'Montserrat', 'Hiragino Kaku Gothic ProN', Meiryo, 'Lucida Grande', sans-serif;
   border-bottom: double 3px #5fa3d6;
   text-decoration: none;
-  color: #33e;
+  color: #797979;
   transition: color 0.4s linear;
 }
 #works{
-  font-family: 'Poppins';
+  font-family: 'YaKuHanJP', 'Montserrat', 'Hiragino Kaku Gothic ProN', Meiryo, 'Lucida Grande', sans-serif;
   border-bottom: double 3px #5fa3d6;
   text-decoration: none;
-  color: #33e;
+  color: #797979;
   transition: color 0.4s linear;
 }
 #company{
-  font-family: 'Poppins';
+  font-family: 'YaKuHanJP', 'Montserrat', 'Hiragino Kaku Gothic ProN', Meiryo, 'Lucida Grande', sans-serif;
   border-bottom: double 3px #5fa3d6;
   text-decoration: none;
-  color: #33e;
+  color: #797979;
   transition: color 0.4s linear;
 }
 .news{
-  font-family: 'Poppins';
+  font-family: 'YaKuHanJP', 'Montserrat', 'Hiragino Kaku Gothic ProN', Meiryo, 'Lucida Grande', sans-serif;
   border-bottom: double 3px #5fa3d6;
   text-decoration: none;
-  color: #33e;
+  color: #797979;
   transition: color 0.4s linear;
 }
 .contact{
-  font-family: 'Poppins';
+  font-family: 'YaKuHanJP', 'Montserrat', 'Hiragino Kaku Gothic ProN', Meiryo, 'Lucida Grande', sans-serif;
   border-bottom: double 3px #5fa3d6;
   text-decoration: none;
-  color: #33e;
+  color: #797979;
   transition: color 0.4s linear;
 }
 .footer_nav cf{
-  font-family: 'Poppins';
+  font-family: 'YaKuHanJP', 'Montserrat', 'Hiragino Kaku Gothic ProN', Meiryo, 'Lucida Grande', sans-serif;
   border-bottom: double 3px #5fa3d6;
   margin-right: 33px;
   padding-top: 33px;
   padding-bottom: 17px;
   text-decoration: none;
-  color: #33e;
+  color: #797979;
   transition: color 0.4s linear;
 }
 .access{
