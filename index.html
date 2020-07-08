@@ -14,25 +14,6 @@ if ((navigator.userAgent.indexOf('iPhone') > 0) || navigator.userAgent.indexOf('
 <!-- jQuery.jsの読み込み -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript" src="jquery.arbitrary-anchor.js"></script>
-<!-- スムーズスクロール部分の記述 
-<script>
-$(function(){
-   // #で始まるアンカーをクリックした場合に処理
-   $('a[href^=#]').click(function() {
-      // スクロールの速度
-      var speed = 400; // ミリ秒
-      // アンカーの値取得
-      var href= $(this).attr("href");
-      // 移動先を取得
-      var target = $(href == "#" || href == "" ? 'html' : href);
-      // 移動先を数値で取得
-      var position = target.offset().top;
-      // スムーススクロール
-      $('body,html').animate({scrollTop:position}, speed, 'swing');
-      return false;
-   });
-});
-</script>-->
 <meta charset="UTF-8">
 <meta name="description" content="企業概要">
 <meta name="format-detection" content="telephone=no">
@@ -108,11 +89,10 @@ $(function(){
                 <br>TEL 042-661-3348</p>
             </li>
             <li style="padding:0 20px; border-right:solid 2px #999; text-align:center; display:table-cell;">
-                <a href="TOPのリンク先"><alt="">TOP</a>
-                <a href="会社案内のリンク先"><alt="">会社案内</a>
-                <a href="採用情報のリンク先"><lt="">採用情報</a>
-                <a href="お知らせのリンク先"><alt="">お知らせ</a>
-                <a href="リンク先URL"><alt="">施工事例</a>
+                <a href="/lh7uem.github.io">TOP</a>
+                <a href="/lh7uem.github.io/about.html">ABOUT</a>
+                <a href="#works">WORKS</a>
+                <a href="#company">COMPANY</a>
             </li>
         </ul>
     </div>
