@@ -1,12 +1,11 @@
 .main_menu a{
+  font-family: 'Poppins';
   display: block;
   margin-right: 33px;
   padding-top: 33px;
   padding-bottom: 17px;
   text-decoration: none;
   color: #333;
-  -webkit-transition: color 0.4s linear;
-  -o-transition: color 0.4s linear;
   transition: color 0.4s linear;
 }
 .global_nav{
