@@ -1,6 +1,5 @@
 .main_menu a{
   font-family: 'Poppins';
-  display: block;
   margin-right: 33px;
   padding-top: 33px;
   padding-bottom: 17px;
@@ -9,27 +8,34 @@
   transition: color 0.4s linear;
 }
 .global_nav{
-    border-bottom:double 3px #5fa3d6;
+  border-bottom:double 3px #5fa3d6;
   }
 .concept {
-    border-bottom: double 3px #5fa3d6;
+  font-family: 'Poppins';
+  border-bottom: double 3px #5fa3d6;
 }
 .works{
-    border-bottom: double 3px #5fa3d6;
+  font-family: 'Poppins';
+  border-bottom: double 3px #5fa3d6;
 }
 .company{
+  font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
 }
 .news{
+  font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
 }
 .contact{
+  font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
 }
 .footer_nav cf{
+  font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
 }
 .access{
+  font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
 }
 table{
