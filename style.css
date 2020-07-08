@@ -13,9 +13,6 @@
 .concept {
   font-family: 'Poppins';
   border-bottom: double 3px #5fa3d6;
-  margin-right: 33px;
-  padding-top: 33px;
-  padding-bottom: 17px;
   text-decoration: none;
   color: #333;
   transition: color 0.4s linear;
